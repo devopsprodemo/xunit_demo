@@ -1,0 +1,11 @@
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/bin/Debug/net8.0/MyLibrary.deps.json
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/bin/Debug/net8.0/MyLibrary.dll
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/bin/Debug/net8.0/MyLibrary.pdb
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/obj/Debug/net8.0/MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/obj/Debug/net8.0/MyLibrary.AssemblyInfoInputs.cache
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/obj/Debug/net8.0/MyLibrary.AssemblyInfo.cs
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/obj/Debug/net8.0/MyLibrary.csproj.CoreCompileInputs.cache
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/obj/Debug/net8.0/MyLibrary.dll
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/obj/Debug/net8.0/refint/MyLibrary.dll
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/obj/Debug/net8.0/MyLibrary.pdb
+/Users/skadari/projects/lab/xunit_demo/MyLibrary/obj/Debug/net8.0/ref/MyLibrary.dll
