@@ -99,3 +99,4 @@
 /Users/skadari/projects/lab/xunit_demo/MyLibrary.Tests/obj/Debug/net8.0/MyLibrary.Tests.pdb
 /Users/skadari/projects/lab/xunit_demo/MyLibrary.Tests/obj/Debug/net8.0/MyLibrary.Tests.genruntimeconfig.cache
 /Users/skadari/projects/lab/xunit_demo/MyLibrary.Tests/obj/Debug/net8.0/ref/MyLibrary.Tests.dll
+/Users/skadari/projects/lab/xunit_demo/MyLibrary.Tests/obj/Debug/net8.0/MyLibrary.Tests.sourcelink.json

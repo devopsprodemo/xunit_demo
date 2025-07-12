@@ -1,0 +1,1 @@
+WRA/Users/skadari/projects/lab/xunit_demo/MyLibrary/MyLibrary.csproj¢net8.0òCSharp12

@@ -1,0 +1,1 @@
+cRM/Users/skadari/projects/lab/xunit_demo/MyLibrary.Tests/MyLibrary.Tests.csproj¢net8.0òCSharp12

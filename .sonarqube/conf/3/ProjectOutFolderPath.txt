@@ -1,0 +1,1 @@
+/Users/skadari/projects/lab/xunit_demo/.sonarqube/out/3
