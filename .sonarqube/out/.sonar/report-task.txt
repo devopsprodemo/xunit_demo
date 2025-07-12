@@ -3,5 +3,5 @@ projectKey=devopsprodemo_xunit_demo
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.65394
 dashboardUrl=https://sonarcloud.io/dashboard?id=devopsprodemo_xunit_demo
-ceTaskId=AZf7-fG1h_6cQloDRDZ7
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZf7-fG1h_6cQloDRDZ7
+ceTaskId=AZf7_aiTmhqJyLZ_TiTj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZf7_aiTmhqJyLZ_TiTj
